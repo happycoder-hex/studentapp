@@ -37,7 +37,7 @@ class ReportController extends Controller
     }
 
 
-    public function index_payment(){
+    public function index_course(){
 
         
     }
