@@ -1,0 +1,6 @@
+id,fname,lname,mname,address,email,mobile,photo,created_at,updated_at
+10,john," aquino"," m"," capas"," john23@gmail.com"," 09253735"," 'C:\Users\Meliza\Pictures\jose rizal =2.jfif'",,
+11,mark," taylor"," e"," tarlac"," marktaylor@gmail.com"," 09432175"," 'C:\Users\Meliza\Pictures\male3.jfif'",,
+12,kieth," smith"," h"," subic"," smith42@gmail.com"," 091432512"," 'C:\Users\Meliza\Pictures\male2.jfif'",,
+13,michael," hernandez"," u"," Baguio"," michael@gmail.com"," 09371402"," 'C:\Users\Meliza\Pictures\male1.jfif'",,
+14,maria," garcia"," p"," pampanga"," garciamaria@gmail.com"," 094385762"," 'C:\tutorial\testing\Testing\public\images\download.jfif'",,
