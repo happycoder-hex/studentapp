@@ -35,5 +35,9 @@ class ReportController extends Controller
         ];      
         return view('report', compact('data'));
     }
+
+    public function index_course(){
+        
+    }
 }
 
