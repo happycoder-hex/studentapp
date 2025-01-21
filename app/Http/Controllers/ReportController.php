@@ -41,5 +41,10 @@ class ReportController extends Controller
 
         
     }
+
+    public function index_payment(){
+
+        
+    }
 }
 
